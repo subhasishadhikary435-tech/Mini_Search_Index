@@ -1,0 +1,1 @@
+Python is a friendly language. I like Python for small scripts.
