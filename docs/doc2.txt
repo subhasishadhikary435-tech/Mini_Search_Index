@@ -1,0 +1,1 @@
+Search engines use inverted index. The index maps terms to documents.

@@ -1,0 +1,1 @@
+A mini search index is fun to build.
